@@ -1,48 +1,48 @@
 // import './App.css';
 
          // for example css  
-import Examplecss from './Examplecss'
+// import Examplecss from './Examplecss'
 
-         // for example image
-import ExampleImage from './ExampleImage'
+//          // for example image
+// import ExampleImage from './ExampleImage'
 
 
-         // example from
-import ExampleForm from "./ExampleForm";
+//          // example from
+// import ExampleForm from "./ExampleForm";
 
-         // for example webpage
-import ExampleWebpage from "./ExampleWebpage";
+//          // for example webpage
+// import ExampleWebpage from "./ExampleWebpage";
 
-         // for bootstrap
-import Bootstrap from './Bootstrap';
+//          // for bootstrap
+// import Bootstrap from './Bootstrap';
 
-        // for dress
-import Exampledress from "./Exampledress";
+//         // for dress
+// import Exampledress from "./Exampledress";
 
-       // Resume
-import Exampleresume from "./Exampleresume";
+//        // Resume
+// import Exampleresume from "./Exampleresume";
 
-        // UseState
-import UseState from './Hooks/UseState';
+//         // UseState
+// import UseState from './Hooks/UseState';
 
-        //task1
-import Task1 from './Task1';
+//         //task1
+// import Task1 from './Task1';
 
-        //Exampleusestage
-import Exampleusestage from './Exampleusestage';
+//         //Exampleusestage
+// import Exampleusestage from './Exampleusestage';
 
-        //Themecolor
-import Themecolor from './Themecolor';
+//         //Themecolor
+// import Themecolor from './Themecolor';
 
-        //list
-import List from './list/List';
+//         //list
+// import List from './list/List';
 
-import Task from './list/Task';
-import Useeffect from './Hooks/Useeffect';
-import Usecallback from './Hooks/Usecallback';
-import Usememo from './Hooks/Usememo';
+// import Task from './list/Task';
+// import Useeffect from './Hooks/Useeffect';
+// import Usecallback from './Hooks/Usecallback';
+// import Usememo from './Hooks/Usememo';
 import Crud from './crud/Crud';
-import Get from './crud/Get';
+// import Get from './crud/Get';
 
 
 

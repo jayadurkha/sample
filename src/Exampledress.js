@@ -48,8 +48,8 @@ function Exampledress() {
 
     
       <div style={styles.imageBox}>
-        <img style={styles.Img} src={dress1}  />
-        <img style={styles.Img} src={dress2} />
+        <img style={styles.Img} src={dress1}  alt="dress"/>
+        <img style={styles.Img} src={dress2} alt="dress"/>
       </div>
 
     

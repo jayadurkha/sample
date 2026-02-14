@@ -35,7 +35,7 @@ const styles = {
       
       
       <div style={styles.left}>
-        <center><img style={styles.image} src={resume}/></center>
+        <center><img style={styles.image} src={resume} alt='resume'/></center>
 
         <h3>Contact</h3>
 
